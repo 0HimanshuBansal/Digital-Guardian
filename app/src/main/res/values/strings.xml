@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Digital Guardian</string>
+    <string name="manage_device_permission_accessibility_text">
+        This is used to \"press\" the home button before showing the lock screen.
+        This fixes blocking in some cases.
+        Moreover, this is one way to allow TimeLimit at newer Android versions to open the lockscreen.
+    </string>
+
+</resources>
